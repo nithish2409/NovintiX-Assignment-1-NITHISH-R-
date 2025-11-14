@@ -1,0 +1,13 @@
+# Ignore the large dataset
+healthcare_dataset.csv
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Jupyter notebook cache
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
